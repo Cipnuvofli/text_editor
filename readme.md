@@ -13,7 +13,7 @@ Before you start, ensure you have the following software installed on your machi
 To clone the Tauri application from GitHub, run the following command in your terminal:
 
 ```
-git clone https://github.com/cipnuvofli/<repository-name>.git
+git clone https://github.com/cipnuvofli/text_editor.git
 ```
 
 ## Installing Dependencies
